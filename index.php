@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Accueil</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="profil.php">Profil</a></li>
+            <li><a href="ppe1.php">PPE 1</a></li>
+            <li><a href="ppe2.php">PPE 2</a></li>
+            <li><a href="veille.php">Veille Technologique</a></li>
+            <li><a href="parcours.php">Parcours Professionnel</a></li>
+        </ul>
+    </nav>
+    <h1>Portofolio</h1>
+</body>
